@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/kanishkpareek19" target="blank"><img src="https://img.shields.io/twitter/follow/kanishkpareek19?logo=twitter&style=for-the-badge" alt="kanishkpareek19" /></a> </p>
 
-- 🌱 I’m currently learning **Neural nets and Flutter**
+- 🌱 I’m currently working on **Neural nets**
 
 - 👯 I’m looking to collaborate on **Machine Learning resarchers and developer team**
 
