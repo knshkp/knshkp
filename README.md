@@ -27,7 +27,7 @@
 <a href="https://kaggle.com/kanishkpareek" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="kanishkpareek" height="30" width="40" /></a>
 <a href="https://instagram.com/tf.kanishk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tf.kanishk" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/kanishk pareek" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="kanishk pareek" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/kanishk5182" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="kanishk5182" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/flank_beast" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="kanishk5182" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/knshkpareek" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="knshkpareek" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/knshkpareek" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="knshkpareek" height="30" width="40" /></a>
 </p>
