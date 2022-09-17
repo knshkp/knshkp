@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kanishk Pareek</h1>
-<h3 align="center">A Cse sophomore from Jecrc Univesity and an aspiring Ai product Manager And am a Machine Learning Enthusiast and am a flutter developer also.Love to explore new tech.</h3>
+<h3 align="center">A Cse sophomore from Jecrc Univesity and an aspiring Ai product Developer And am a Machine Learning Enthusiast and am a flutter developer also.Love to explore new tech.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=knshkp" alt="knshkp" /></a> </p>
 
