@@ -11,7 +11,7 @@
 
 - 🤝 I’m looking for help with **Anyone who have facing problems on machine learning and deep learning projects**
 
-- 👨‍💻 at my free time i solve problems on [https://www.codechef.com/users/kanishk5182](https://www.codechef.com/users/kanishk5182)
+- 👨‍💻 at my free time i solve problems on [https://www.leetcode.com/users/knshkparek](https://www.leetcode.com/knshkpareek)
 
 - 💬 Ask me about **Any tech**
 
